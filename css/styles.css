@@ -1,0 +1,23 @@
+/* Footer */
+
+.footer1 {
+  padding: 7% 14% 5%;
+}
+.icon-footer {
+  margin: 1%;
+}
+.i-footer {
+  color:#4d4d4d;
+  margin: 2%;
+  font-size: 1.5rem;
+}
+.i-footer:hover {
+  color:#333333;
+}
+.icon {
+  text-align: center;
+  margin: 1% 0;
+}
+.section {
+  background-color: rgba(0, 0, 0, 0.7);
+}
